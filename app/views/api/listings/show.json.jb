@@ -8,4 +8,6 @@
   floors: @listing.floors,
   availability: @listing.availability,
   address: @listing.address,
+  latitude: @listing.latitude,
+  longitude: @listing.longitude,
 }
